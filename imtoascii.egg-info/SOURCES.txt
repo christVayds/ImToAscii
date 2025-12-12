@@ -1,0 +1,7 @@
+setup.py
+imtoascii.egg-info/PKG-INFO
+imtoascii.egg-info/SOURCES.txt
+imtoascii.egg-info/dependency_links.txt
+imtoascii.egg-info/entry_points.txt
+imtoascii.egg-info/requires.txt
+imtoascii.egg-info/top_level.txt

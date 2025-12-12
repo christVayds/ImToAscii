@@ -1,0 +1,9 @@
+setup.py
+src/camera.py
+src/main.py
+src/toascii.py
+src/imtoascii.egg-info/PKG-INFO
+src/imtoascii.egg-info/SOURCES.txt
+src/imtoascii.egg-info/dependency_links.txt
+src/imtoascii.egg-info/entry_points.txt
+src/imtoascii.egg-info/top_level.txt
